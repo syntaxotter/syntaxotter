@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I’m Syntax Otter!
+### Passionate Security Researcher from Everywhere 🌎
 
-<!--
-**syntaxotter/syntaxotter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?logo=solidity&logoColor=white)
+<!-- Add more badges: https://shields.io/ -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📜 Certifications 
+| Certificate           | Issuer       | Badge |
+|-----------------------|--------------|-------|
+| INE Certified Cloud Associate   | INE         | <img src="https://templates.images.credential.net/16947189788992358021417296177256.png" width="130" /> |
+| Junior Penetration Tester   | INE     | <img src="https://templates.images.credential.net/16947192901898719699151540862834.png" width="130" /> |
+<!-- Use badge images from Credly/Acclaim or official sources -->
